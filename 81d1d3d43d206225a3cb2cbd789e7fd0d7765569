@@ -1,0 +1,9 @@
+Code-Review+2: Frank Kloeker <f.kloeker@telekom.de>
+Code-Review+2: Akihiro Motoki <amotoki@gmail.com>
+Workflow+1: Akihiro Motoki <amotoki@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 03 May 2017 19:35:00 +0000
+Reviewed-on: https://review.openstack.org/413146
+Project: openstack/i18n-specs
+Branch: refs/heads/master
